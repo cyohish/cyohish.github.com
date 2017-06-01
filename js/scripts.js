@@ -164,5 +164,5 @@ $('.detail .carousel').carousel({
 })
 
 $('.app-store').on('click', function (e) {
-  // window.open("https://itunes.apple.com/kr/app/moggong-gyesangi/id1089823978?mt=8");
+  window.open("https://itunes.apple.com/us/app/%EA%B2%BD%ED%94%BC%EC%A0%81-%EB%8C%80%EB%8F%99%EB%A7%A5%ED%8C%90%EB%A7%89-%EC%82%BD%EC%9E%85%EC%88%A0-tavi/id1243428973?l=ko&ls=1&mt=8");
 })
